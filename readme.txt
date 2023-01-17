@@ -1,18 +1,18 @@
 
 ==================================================================================================
 
-KARDS is a modern and clean personal vCard website template. It has many cool features found
+Mohit is a modern and clean personal vCard website template. It has many cool features found
 in premium templates. It has timeline items, stats section, skillbars, working ajax form,
 frontend form validation, a portfolio section to showcase your works and many more. It looks 
 great on all devices from mobile to desktop. It's also retina ready so your site will look 
-crisp and sharp on any device. Kards is the ideal template for creating digital personal resume 
+crisp and sharp on any device. Mohit is the ideal template for creating digital personal resume 
 and portfolio website.
 
 ==================================================================================================
 
 
 LICENSE:
-KARDS is released under the Creative Commons Attribution 3.0 License
+Mohit is released under the Creative Commons Attribution 3.0 License
 (http://creativecommons.org/licenses/by/3.0/). This means that you are free:
 
    to Share - to copy, distribute, display, and perform the work
@@ -59,7 +59,7 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 SUPPORT:
     
-Since KARDS is distributed for free, support is not offered. KARDS is coded according 
+Since Mohit is distributed for free, support is not offered. Mohit is coded according 
 to current web standards and we did our best to make the template easy to use and modify.
 If you have minimum web development experience, you can easily modify the template. 
 However, If you're still new to HTML and CSS, I suggest that you visit the 

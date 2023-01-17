@@ -75,6 +75,7 @@ body {
 	font-size: 1.7rem;
 	line-height: 3rem;
 	color: #6e6e6e;
+	/* text-align: justify; */
 }
 
 /**
@@ -1099,7 +1100,7 @@ header .top-bar {
 	min-width: 220px;
 	min-height: 66px;
 	position: absolute;
-	left: 90px;
+	left: -80px;
 	top: 0;
 }
 header .logo {
@@ -2046,7 +2047,9 @@ header .logo a {
 	width: 7.8rem;
 	border-radius: 50%;
 }
-
+.text-align-justify{
+	text-align: justify;
+}
 /**
  * section ads - (_layout.scss)
  * ------------------------------------------------------------------- 

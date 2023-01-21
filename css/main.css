@@ -80,7 +80,12 @@ body {
 	color: #6e6e6e;
 	/* text-align: justify; */
 }
-
+.gray-color{
+	color:#6e6e6e;
+}
+#gray{
+	color: #6e6e6e;
+}
 /**
  * links - (_document-setup.scss)
  * -------------------------------------------------------------------
